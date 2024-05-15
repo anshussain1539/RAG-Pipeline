@@ -1,7 +1,7 @@
 # RAG-Pipeline
 
 You have to make three changes in the file to run the code.
-1) Give path to your document
+1) Give path to your pdf. (no other extension)
 2) Write together api key on mentioned places. (2 places)
 
 In this file, all libraries are mentioned which you need to install.
