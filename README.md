@@ -4,13 +4,13 @@ You have to make three changes in the file to run the code.
 1) Give path to your pdf. (no other extension)
 2) Write together api key on mentioned places. (2 places)
 
+Both files are same with differnet extensions.
+
 In this file, all libraries are mentioned which you need to install.
 
 From very basic, rag pipeline has implemented using LLM langchain and together-ai.
-
 This will help you in understanding how rag pipeline works. Also helps you in implementing it. Then you can modify according to you needs.
 All contain in one file .ipynb
-
 
 This file contains following information:
 1) Install the libraires
